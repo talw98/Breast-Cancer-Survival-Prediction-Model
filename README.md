@@ -1,6 +1,7 @@
 # Breast-Cancer-Survival-Prediction-Model
 Predicting whether a breast cancer patient survives after surgery using Machine Learning.
 
+*This project was done on Google Colab and has been now uploaded here on Github.*
 ## Background
 
 Accurately predicting the survival rate of breast cancer patients is a major issue for cancer researchers. Machine learning (ML) has attracted much attention with the hope that it could provide accurate results, but its modeling methods and prediction performance remain controversial, in this article published on [PubMed.](https://pubmed.ncbi.nlm.nih.gov/33861809/)
